@@ -1,4 +1,4 @@
-# Game-Of-Uz
+# Game-Of-Ur
 This is Zimm Tech's Open Source Game Of Ur!
 
 ## Author
